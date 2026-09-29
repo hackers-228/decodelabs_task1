@@ -18,7 +18,7 @@ AI Chatbot is a simple rule-based chatbot built using Python. It responds to pre
 ### 1. Clone the Repository
 
 ```bash
-git clone ttps://github.com/hackers-228/decodelabs_task1
+git clone https://github.com/hackers-228/decodelabs_task1
 ```
 
 ### 2. Navigate to the Project Folder
